@@ -1,0 +1,251 @@
+Region,State,Votes
+New England,Arkansas,45
+New England,Louisiana,68
+New England,Oklahoma,18
+New England,Texas,43
+New England,Alabama,68
+New England,Kentucky,49
+New England,Mississippi,67
+New England,Tennessee,56
+New England,Florida,63
+New England,Georgia,71
+New England,Maryland,9
+New England,North Carolina,53
+New England,South Carolina,68
+New England,Virginia,53
+New England,West Virginia,35
+New England,Delaware,5
+New England,Arizona,11
+New England,New Mexico,13
+New England,Colorado,1
+New England,Kansas,11
+New England,Missouri,22
+New England,Illinois,1
+New England,Indiana,2
+New England,Ohio,2
+New England,Pennsylvania,1
+Middle Atlantic,Arkansas,75
+Middle Atlantic,Louisiana,118
+Middle Atlantic,Oklahoma,21
+Middle Atlantic,Texas,84
+Middle Atlantic,Alabama,128
+Middle Atlantic,Kentucky,83
+Middle Atlantic,Mississippi,121
+Middle Atlantic,Tennessee,107
+Middle Atlantic,Florida,125
+Middle Atlantic,Georgia,132
+Middle Atlantic,Maryland,17
+Middle Atlantic,North Carolina,104
+Middle Atlantic,South Carolina,126
+Middle Atlantic,Virginia,88
+Middle Atlantic,West Virginia,58
+Middle Atlantic,Delaware,5
+Middle Atlantic,Arizona,16
+Middle Atlantic,New Mexico,22
+Middle Atlantic,Colorado,3
+Middle Atlantic,Kansas,10
+Middle Atlantic,Missouri,28
+Middle Atlantic,Illinois,2
+Middle Atlantic,Indiana,4
+Middle Atlantic,Ohio,4
+Middle Atlantic,Pennsylvania,1
+East North Central,Arkansas,131
+East North Central,Louisiana,169
+East North Central,Oklahoma,34
+East North Central,Texas,112
+East North Central,Alabama,169
+East North Central,Kentucky,115
+East North Central,Mississippi,159
+East North Central,Tennessee,138
+East North Central,Florida,128
+East North Central,Georgia,164
+East North Central,Maryland,12
+East North Central,North Carolina,104
+East North Central,South Carolina,144
+East North Central,Virginia,91
+East North Central,West Virginia,71
+East North Central,Delaware,2
+East North Central,Arizona,24
+East North Central,New Mexico,35
+East North Central,Colorado,2
+East North Central,Kansas,13
+East North Central,Missouri,41
+East North Central,Illinois,1
+East North Central,Indiana,3
+East North Central,Ohio,1
+East North Central,Pennsylvania,1
+West North Central,Arkansas,71
+West North Central,Louisiana,92
+West North Central,Oklahoma,22
+West North Central,Texas,68
+West North Central,Alabama,93
+West North Central,Kentucky,68
+West North Central,Mississippi,95
+West North Central,Tennessee,86
+West North Central,Florida,73
+West North Central,Georgia,94
+West North Central,Maryland,9
+West North Central,North Carolina,58
+West North Central,South Carolina,80
+West North Central,Virginia,37
+West North Central,West Virginia,29
+West North Central,Delaware,1
+West North Central,Arizona,19
+West North Central,New Mexico,18
+West North Central,Colorado,1
+West North Central,Kansas,7
+West North Central,Missouri,26
+West North Central,Illinois,2
+West North Central,Indiana,3
+West North Central,Ohio,0
+West North Central,Pennsylvania,1
+South Atlantic,Arkansas,355
+South Atlantic,Louisiana,665
+South Atlantic,Oklahoma,83
+South Atlantic,Texas,372
+South Atlantic,Alabama,764
+South Atlantic,Kentucky,438
+South Atlantic,Mississippi,688
+South Atlantic,Tennessee,614
+South Atlantic,Florida,646
+South Atlantic,Georgia,806
+South Atlantic,Maryland,63
+South Atlantic,North Carolina,679
+South Atlantic,South Carolina,777
+South Atlantic,Virginia,471
+South Atlantic,West Virginia,242
+South Atlantic,Delaware,15
+South Atlantic,Arizona,56
+South Atlantic,New Mexico,57
+South Atlantic,Colorado,11
+South Atlantic,Kansas,45
+South Atlantic,Missouri,126
+South Atlantic,Illinois,6
+South Atlantic,Indiana,12
+South Atlantic,Ohio,11
+South Atlantic,Pennsylvania,7
+East South Central,Arkansas,116
+East South Central,Louisiana,165
+East South Central,Oklahoma,17
+East South Central,Texas,93
+East South Central,Alabama,180
+East South Central,Kentucky,130
+East South Central,Mississippi,174
+East South Central,Tennessee,175
+East South Central,Florida,132
+East South Central,Georgia,179
+East South Central,Maryland,6
+East South Central,North Carolina,125
+East South Central,South Carolina,155
+East South Central,Virginia,87
+East South Central,West Virginia,38
+East South Central,Delaware,2
+East South Central,Arizona,6
+East South Central,New Mexico,7
+East South Central,Colorado,1
+East South Central,Kansas,2
+East South Central,Missouri,29
+East South Central,Illinois,1
+East South Central,Indiana,3
+East South Central,Ohio,1
+East South Central,Pennsylvania,0
+West South Central,Arkansas,300
+West South Central,Louisiana,411
+West South Central,Oklahoma,161
+West South Central,Texas,371
+West South Central,Alabama,412
+West South Central,Kentucky,184
+West South Central,Mississippi,391
+West South Central,Tennessee,279
+West South Central,Florida,298
+West South Central,Georgia,397
+West South Central,Maryland,20
+West South Central,North Carolina,190
+West South Central,South Carolina,310
+West South Central,Virginia,175
+West South Central,West Virginia,94
+West South Central,Delaware,1
+West South Central,Arizona,59
+West South Central,New Mexico,70
+West South Central,Colorado,2
+West South Central,Kansas,26
+West South Central,Missouri,81
+West South Central,Illinois,3
+West South Central,Indiana,4
+West South Central,Ohio,3
+West South Central,Pennsylvania,0
+Mountain,Arkansas,68
+Mountain,Louisiana,84
+Mountain,Oklahoma,26
+Mountain,Texas,51
+Mountain,Alabama,91
+Mountain,Kentucky,55
+Mountain,Mississippi,88
+Mountain,Tennessee,64
+Mountain,Florida,65
+Mountain,Georgia,91
+Mountain,Maryland,5
+Mountain,North Carolina,53
+Mountain,South Carolina,84
+Mountain,Virginia,47
+Mountain,West Virginia,36
+Mountain,Delaware,2
+Mountain,Arizona,10
+Mountain,New Mexico,11
+Mountain,Colorado,2
+Mountain,Kansas,7
+Mountain,Missouri,31
+Mountain,Illinois,1
+Mountain,Indiana,2
+Mountain,Ohio,0
+Mountain,Pennsylvania,0
+Pacific,Arkansas,109
+Pacific,Louisiana,159
+Pacific,Oklahoma,43
+Pacific,Texas,107
+Pacific,Alabama,156
+Pacific,Kentucky,91
+Pacific,Mississippi,149
+Pacific,Tennessee,106
+Pacific,Florida,113
+Pacific,Georgia,149
+Pacific,Maryland,9
+Pacific,North Carolina,81
+Pacific,South Carolina,133
+Pacific,Virginia,71
+Pacific,West Virginia,56
+Pacific,Delaware,4
+Pacific,Arizona,16
+Pacific,New Mexico,22
+Pacific,Colorado,2
+Pacific,Kansas,15
+Pacific,Missouri,50
+Pacific,Illinois,3
+Pacific,Indiana,3
+Pacific,Ohio,2
+Pacific,Pennsylvania,0
+No Response,Arkansas,119
+No Response,Louisiana,184
+No Response,Oklahoma,52
+No Response,Texas,125
+No Response,Alabama,186
+No Response,Kentucky,106
+No Response,Mississippi,165
+No Response,Tennessee,137
+No Response,Florida,150
+No Response,Georgia,193
+No Response,Maryland,12
+No Response,North Carolina,117
+No Response,South Carolina,166
+No Response,Virginia,96
+No Response,West Virginia,51
+No Response,Delaware,4
+No Response,Arizona,27
+No Response,New Mexico,40
+No Response,Colorado,3
+No Response,Kansas,19
+No Response,Missouri,36
+No Response,Illinois,1
+No Response,Indiana,3
+No Response,Ohio,0
+No Response,Pennsylvania,0
